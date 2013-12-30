@@ -90,12 +90,14 @@ public class MyActivity extends Activity implements OnClickListener, OnLongClick
 	Date d = new Date();
 	String todaysDate = (String) DateFormat.format("EE dd-MMM-yyyy", d.getTime());
 	String deviceName = android.os.Build.MODEL;
+	//String deviceVersion = android.os.Build.VERSION.RELEASE;
+	int deviceVersion = android.os.Build.VERSION.SDK_INT;
 	Point screen = new Point();
 	
 	@Override
 	public void onWindowFocusChanged(boolean hasFocus){
 		super.onWindowFocusChanged(hasFocus);
-		if (hasFocus) {
+		if (hasFocus & (deviceVersion >= 19 )) {
 	     scroll.setSystemUiVisibility(
 		 View.SYSTEM_UI_FLAG_LAYOUT_STABLE
 		 | View.SYSTEM_UI_FLAG_LAYOUT_HIDE_NAVIGATION
@@ -105,7 +107,7 @@ public class MyActivity extends Activity implements OnClickListener, OnLongClick
 		 | View.SYSTEM_UI_FLAG_IMMERSIVE_STICKY
 		 );
 		}
-	}
+	} 
 	
 	 /** Called when the activity is first created. */
     @Override
