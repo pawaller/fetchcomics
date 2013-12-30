@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fetch Comics</string>
+    <string name="addAComic">Add a Comic</string>
+    <string name="deleteThisComic">Share or Delete this Comic?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="share">Share</string>
+    <string name="rssPattern">"/newspics/"</string>
+   
+   
+
+</resources>

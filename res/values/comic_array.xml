@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="comics">
+        <item>9 Chickweed Lane</item>
+        <item>Agnes</item>
+        <item>Andy Capp</item>
+        <item>Archie</item>
+         <item>Arctic Circle</item>
+        <item>B.C.</item>
+        <item>Baby Blues</item>
+         <item>Barney &amp; Clyde</item>
+         <item>Barney Google And Snuffy Smith</item>
+        <item>Beetle Bailey</item>
+        <item>Bleeker The Rechargeable Dog</item>
+        <item>Blondie</item>
+        <item>Brilliant Mind of Edison Lee</item>
+        <item>Candorville</item>
+        <item>Cathy</item>
+         <item>Crankshaft</item>
+		<item>Cul de Sac</item>
+          <item>Daddy\&apos;s Home</item>
+          <item>DeFlocked</item>
+          <item>Diamond Lil</item>
+        <item>Dilbert</item>
+		<item>Dogs of C-Kennel</item>
+         <item>Doonesbury</item>
+         <item>Dustin</item>
+		<item>Flo &amp; Friends</item>
+       <item>Fort Knox</item>
+       
+        <item>Garfield</item>
+        <item>Get Fuzzy</item>
+        <item>Hagar the Horrible</item>
+        <item>Herb and Jamaal</item>
+        <item>Hi and Lois</item>
+		<item>Home &amp; Away</item>
+		<item>Little Dog Lost</item>
+         <item>Luann</item>
+        <item>Marvin</item>
+		<item>Meaning of Lila</item>
+		<item>Momma</item>	
+        <item>Mother Goose &amp; Grimm</item>
+		<item>Mutts</item>
+        <item>Nest Heads</item>
+		<item>Non Sequitur</item>
+		<item>On a Claire Day</item>
+        <item>One Big Happy</item>
+        <item>Peanuts</item>
+        <item>Pearls before Swine</item> 
+        <item>Pickles</item>
+         <item>Red and Rover</item>
+          <item>Reply All</item>
+         <item>Rugrats</item>
+         <item>Take It From The Tinkersons</item>
+         <item>The Barn</item>
+         <item>Tina\&apos;s Groove</item>
+         <item>Wizard of Id</item>
+          <item>Zack Hill</item>
+          <item>Zits</item>
+    </string-array>
+</resources>
